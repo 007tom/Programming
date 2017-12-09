@@ -4,12 +4,18 @@
 *文本编辑器*：1. [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) 2. [VS Code](https://code.visualstudio.com/) 3. [Notepad ++](https://notepad-plus-plus.org/download/v7.5.3.html)
 
 ## Ⅰ. 知识点
-### 1. *C++*
+### 1. *C++*   
+	提示：
+	
+	注意运算符的优先级问题；
 ### 2. *Javascript*
-### 3. *Python 3*
-#### 提示：
-#### 1. 坚持使用**4个空格**的缩进；
-#### 2. Python程序**对大小写敏感**；
+### 3. *Python 3*   
+
+	提示：
+	
+ 	1. 坚持使用**4个空格**的缩进；
+	2. Python程序**对大小写敏感**；  
+	
 ## Ⅱ. 案例
 ### 1/33. 买菜问题：    
 	
