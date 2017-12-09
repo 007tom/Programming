@@ -3,7 +3,7 @@
 
 *文本编辑器*：1. [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) 2. [VS Code](https://code.visualstudio.com/) 3. [Notepad ++](https://notepad-plus-plus.org/download/v7.5.3.html)
 
-需要注意的是， C++ 笔记的整理过程注重计算思维，而 Python 和 Javascript 注重的是语法方面。
+需要注意的是， *C++* 笔记的整理过程注重计算思维，而 *Python* 和 *Javascript* 注重的是语法方面。
 ## Ⅰ. 知识点
 ### 1. *C++*   
 	提示：
