@@ -17,7 +17,7 @@
 using namespace std; // 命名空间
 /* 主函数 */
 int main() {
-  return 0;
+	return 0;
 }
    ```
    
