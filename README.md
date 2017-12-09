@@ -13,12 +13,12 @@
 #### 1.1 程序结构的基本含义：
    
    ```
-   #include <iostream>  // 包含库函数
-   using namespace std; // 命名空间
-   /* 主函数 */
-   int main() {
-     return 0;
-   }
+#include <iostream>  // 包含库函数
+using namespace std; // 命名空间
+/* 主函数 */
+int main() {
+  return 0;
+}
    ```
    
 ### 2. *Javascript*
